@@ -101,4 +101,4 @@ Add the server definition to your MCP client configuration (e.g. `claude_desktop
 | `get_video_script_mcp(query)` | Fetches real-time web search data and generates a production-ready script. |
 
 
-![user workflow](assests\1.png)
+![user workflow](assests/1.png)
