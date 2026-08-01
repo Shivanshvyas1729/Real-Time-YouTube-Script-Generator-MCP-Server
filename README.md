@@ -1,9 +1,8 @@
 # 🎬 Real-Time YouTube Script Generator & MCP Server
 
+🚀 **Live Demo**: [Real-Time YouTube Script Generator](https://real-time-youtube-script-generator-mcp-server-kv2sp2x863hpu8bh.streamlit.app/)
+
 ![project structure](assests/3242.png)
-
-
-
 
 An AI-powered application that retrieves real-time web information using **Tavily Search** and converts it into high-retention, production-ready short video scripts (YouTube Shorts / Instagram Reels) using **Gemini LLM**.
 
