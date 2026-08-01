@@ -68,6 +68,8 @@ Requirements:
 - Factual, concise, insightful (~200 words).
 - Well-structured with bullet points or key takeaways.
 - No self-references or fluff.
+- don't give me anything like here is the summury etc.
+- tone easy but professional.
 
 Source Data:
 {raw_source_info}
